@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21126" started-at="2016-02-08T09:25:30Z" finished-at="2016-02-08T09:25:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21126" started-at="2016-02-08T09:25:30Z" finished-at="2016-02-08T09:25:51Z">
+      <class name="tests.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.NewTest@3d8c7aca]" name="beforeTest" is-config="true" duration-ms="1389" started-at="2016-02-08T01:25:30Z" finished-at="2016-02-08T01:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Calc_tests(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@3d8c7aca]" name="Calc_tests" duration-ms="4163" started-at="2016-02-08T01:25:31Z" data-provider="Data" finished-at="2016-02-08T01:25:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[423]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[525]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Multiplication]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[222075]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calc_tests -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.NewTest@3d8c7aca]" name="afterTest" is-config="true" duration-ms="133" started-at="2016-02-08T01:25:36Z" finished-at="2016-02-08T01:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.NewTest@3d8c7aca]" name="beforeTest" is-config="true" duration-ms="1138" started-at="2016-02-08T01:25:36Z" finished-at="2016-02-08T01:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Calc_tests(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@3d8c7aca]" name="Calc_tests" duration-ms="4144" started-at="2016-02-08T01:25:37Z" data-provider="Data" finished-at="2016-02-08T01:25:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Division]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calc_tests -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.NewTest@3d8c7aca]" name="afterTest" is-config="true" duration-ms="131" started-at="2016-02-08T01:25:41Z" finished-at="2016-02-08T01:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.NewTest@3d8c7aca]" name="beforeTest" is-config="true" duration-ms="835" started-at="2016-02-08T01:25:41Z" finished-at="2016-02-08T01:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Calc_tests(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@3d8c7aca]" name="Calc_tests" duration-ms="4807" started-at="2016-02-08T01:25:42Z" data-provider="Data" finished-at="2016-02-08T01:25:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-234234]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[345345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Addition]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[111111]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calc_tests -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.NewTest@3d8c7aca]" name="afterTest" is-config="true" duration-ms="76" started-at="2016-02-08T01:25:47Z" finished-at="2016-02-08T01:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.NewTest@3d8c7aca]" name="beforeTest" is-config="true" duration-ms="802" started-at="2016-02-08T01:25:47Z" finished-at="2016-02-08T01:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Calc_tests(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.NewTest@3d8c7aca]" name="Calc_tests" duration-ms="3402" started-at="2016-02-08T01:25:48Z" data-provider="Data" finished-at="2016-02-08T01:25:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[234823]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-23094823]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Subtraction]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[23329646]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calc_tests -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.NewTest@3d8c7aca]" name="afterTest" is-config="true" duration-ms="87" started-at="2016-02-08T01:25:51Z" finished-at="2016-02-08T01:25:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
